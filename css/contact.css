@@ -1,0 +1,39 @@
+body {
+  background: url('about.png') no-repeat center center fixed;
+  opacity: 0.2px;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  background-size: cover;
+  -o-background-size: cover;}
+
+h1{
+  color: #040f35;
+  text-align: center;
+  color: #040f35;
+  font-style: bold;
+}
+p{
+  text-align: center;
+  color: #040f35;
+  font-style: bold;
+}
+
+.navbar{
+  background-color: #bda76f !important;
+}
+.navbar .navbar-brand{
+
+  color: #040f35;
+}
+
+.navbar .navbar-brand:hover{
+
+  color: #FFFF;
+}
+.navbar .nav-link:hover{
+
+  color: #040f35;
+}
+.nav-item{
+    color: #040f35;
+}
